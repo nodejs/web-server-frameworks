@@ -30,6 +30,7 @@ This team is focused around how the core http(1/2/3) and other related apis fit 
 - [@RamirezAlex](https://github.com/RamirezAlex) - Alex Ramirez
 - [@raymondfeng](https://github.com/raymondfeng) - Raymond Feng
 - [@ronag](https://github.com/ronag) - Robert Nagy
+- [@xelinorg](https://github.com/xelinorg) - Alex Giallos
 - [@wesleytodd](https://github.com/wesleytodd) - Wes Todd
 
 <!-- ncu-team-sync end -->
