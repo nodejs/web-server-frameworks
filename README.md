@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This team is focused around how the core http(1/2/3) and other related apis fit the needs of the web frameworks (express, fastify, restify, hapi, koa etc). It also gives the maintainers a forum to discuss and collaborate on issues which span the projects.
+This team is focused around how the core http(1/2/3) and other related apis fit the needs of the web frameworks (express, fastify, restify, hapi, koa, graphql etc). It also gives the maintainers a forum to discuss and collaborate on issues which span the projects.
 
 ## Web-Server Frameworks Team Members
 
