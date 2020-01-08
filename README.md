@@ -30,14 +30,18 @@ Things which should not be done in this repo:
 <!-- ncu-team-sync.team(nodejs/web-server-frameworks) -->
 
 - [@AlexZeitler](https://github.com/AlexZeitler) - Alexander Zeitler
+- [@Alyssa-Cooper](https://github.com/Alyssa-Cooper) - Alyssa Cooper
 - [@antsmartian](https://github.com/antsmartian) - antsmartian
 - [@arei](https://github.com/arei) - Glen R. Goodwin
 - [@ayenisholah](https://github.com/ayenisholah) - Shola Ayeni
+- [@bajtos](https://github.com/bajtos) - Miroslav Bajtoš
 - [@blakeembrey](https://github.com/blakeembrey) - Blake Embrey
 - [@DonutEspresso](https://github.com/DonutEspresso) - Alex Liu
 - [@dougwilson](https://github.com/dougwilson) - Douglas Wilson
+- [@drawm](https://github.com/drawm) - Damon Perron-Laurin
 - [@Ethan-Arrowood](https://github.com/Ethan-Arrowood) - Ethan Arrowood
 - [@fed135](https://github.com/fed135) - Frederic Charette
+- [@ghermeto](https://github.com/ghermeto) - Guilherme Hermeto
 - [@gireeshpunathil](https://github.com/gireeshpunathil) - Gireesh Punathil
 - [@hekike](https://github.com/hekike) - Peter Marton
 - [@hueniverse](https://github.com/hueniverse) - Eran Hammer
@@ -48,9 +52,12 @@ Things which should not be done in this repo:
 - [@MarcinHoppe](https://github.com/MarcinHoppe) - Marcin Hoppe
 - [@mcollina](https://github.com/mcollina) - Matteo Collina
 - [@mhdawson](https://github.com/mhdawson) - Michael Dawson
+- [@niftylettuce](https://github.com/niftylettuce) - niftylettuce
 - [@RamirezAlex](https://github.com/RamirezAlex) - Alex Ramirez
 - [@raymondfeng](https://github.com/raymondfeng) - Raymond Feng
+- [@retrohacker](https://github.com/retrohacker) - William Blankenship
 - [@ronag](https://github.com/ronag) - Robert Nagy
+- [@sheplu](https://github.com/sheplu) - Jean Burellier
 - [@wesleytodd](https://github.com/wesleytodd) - Wes Todd
 
 <!-- ncu-team-sync end -->
