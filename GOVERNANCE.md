@@ -15,13 +15,17 @@ Team Membership is not time-limited. There is no fixed size of the Team.
 
 There is no specific set of requirements or qualifications for Team Membership beyond these rules.
 
-Changes to Team membership should be proposed with an issue and labelled `web-server-framework-agenda`
-to be included in the next [team meeting](#team-meetings). Decisions are made via the
-[Consensus Seeking Process](#consensus-seeking-process). If there are not objections in the
-issue new members may attend the meeting in which their membership is officially accepted.
+Prospective members should request membership though a PR labelled `membership-request` which adds them to the
+[Team membership list](https://github.com/nodejs/web-server-frameworks/README.md#Web-Server-Frameworks-Team-Members).
+The PR will be merged in accordance with the [pull request consensus process](#Pull-Requests).
 
-If a Team member is unable to attend a meeting where a planned membership decision is being made,
-then their consent is assumed.
+Team membership will be revisited every 6 months. A PR will be open moving members
+without any activity in the past 6 months to a Past Collaborators list. Members
+can comment on the PR to keep themselves in the members list.
+The PR will be merged in 7 days in accordance with the [pull request consensus process](#Pull-Requests).
+
+Past collaborators may rejoin the Team using the same process specified
+above for prospective members.
 
 ## Team Meetings
 
@@ -50,8 +54,9 @@ cannot veto or remove items.
 The Team may invite persons or representatives from certain projects to
 participate in a non-voting capacity.
 
-Decisions in meetings are made via the [Consensus Seeking Process](#Consensus-Seeking-Process)
-and require a quorum of 50% of Members.
+Decisions made in meetings must go through the [pull request consensus process](#Pull-Requests).
+One of the members present in the meeting will be responsible for opening the PR,
+if one doesn't exist already.
 
 The moderator is responsible for summarizing the discussion of each
 agenda item and sends it as a pull request after the meeting.
@@ -74,18 +79,17 @@ Members participate in a vote.
 
 ## Pull Requests
 
-Pull requests that do not change the governance of the team can be merged into
-this repository provided the following conditions have been met:
+Pull requests that do not change the governance of the team or remove members can
+be merged into this repository provided the following conditions have been met:
 
 * There are no outstanding objections
 * There are two approvals by team members
 * The PR has been open for at least 48 hours
 
-Pull requests that change governance of the team must meet the following conditions
+Pull requests that change governance of the team or remove members must meet the following conditions
 in addition to the ones listed for regular PRs.
 
-* The PR has been open for at least 7 days OR consensus is reached in a meeting
-  with quorum of members.
+* The PR has been open for at least 7 days.
 
 If consensus cannot be reached, a pull request may still be landed after a vote
 by the members to override outstanding objections.
