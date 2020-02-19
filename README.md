@@ -36,6 +36,7 @@ Things which should not be done in this repo:
 - [@ayenisholah](https://github.com/ayenisholah) - Shola Ayeni
 - [@bajtos](https://github.com/bajtos) - Miroslav Bajtoš
 - [@blakeembrey](https://github.com/blakeembrey) - Blake Embrey
+- [@delvedor](https://github.com/delvedor) - Tomas Della Vedova
 - [@DonutEspresso](https://github.com/DonutEspresso) - Alex Liu
 - [@dougwilson](https://github.com/dougwilson) - Douglas Wilson
 - [@drawm](https://github.com/drawm) - Damon Perron-Laurin
