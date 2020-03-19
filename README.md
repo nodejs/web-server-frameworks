@@ -60,5 +60,6 @@ Things which should not be done in this repo:
 - [@ronag](https://github.com/ronag) - Robert Nagy
 - [@sheplu](https://github.com/sheplu) - Jean Burellier
 - [@wesleytodd](https://github.com/wesleytodd) - Wes Todd
+- [@chrisrus](https://github.com/chrisrus) - Chris Russell
 
 <!-- ncu-team-sync end -->
