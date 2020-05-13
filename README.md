@@ -33,9 +33,7 @@ in the issues within this repository.
 
 ## How to Join
 
-If you'd like to be listed as a team member, open a PR adding yourself
-to the list below along with a few words on how you are planning
-to contribute to the team's efforts.
+Please refer to the [Team Membership](./GOVERNANCE.md#team-membership) section of the Governance document for information on how to join this working group.
 
 ## Web-Server Frameworks Team Members
 
