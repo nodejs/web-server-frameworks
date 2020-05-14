@@ -39,6 +39,6 @@ Extracted from **<%= agendaLabel %>** labelled issues and pull requests from **<
 
 ### Joining the meeting
 
-* link for participants: https://zoom.us/j/951032369
+* link for participants: https://zoom.us/j/94317794411
 * For those who just want to watch: https://www.youtube.com/c/nodejs+foundation/live
 * youtube admin page: https://www.youtube.com/my_live_events?filter=scheduled
