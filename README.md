@@ -53,6 +53,7 @@ Please refer to the [Team Membership](./GOVERNANCE.md#team-membership) section o
 - [@drawm](https://github.com/drawm) - Damon Perron-Laurin
 - [@Ethan-Arrowood](https://github.com/Ethan-Arrowood) - Ethan Arrowood
 - [@fed135](https://github.com/fed135) - Frederic Charette
+- [@franck-romano](https://github.com/franck-romano) - Franck Romano
 - [@ghermeto](https://github.com/ghermeto) - Guilherme Hermeto
 - [@gireeshpunathil](https://github.com/gireeshpunathil) - Gireesh Punathil
 - [@hekike](https://github.com/hekike) - Peter Marton
