@@ -25,6 +25,16 @@ Things which should not be done in this repo:
 - Determine what is/is not a framework
 - Maintain a list of frameworks, framework authors or maintainers
 
+## Joining
+
+We encourage participation from members across the Node.js and JavaScript
+ecosystem. Feel free to join scheduled meetings and participate
+in the issues within this repository.
+
+## How to Join
+
+Please refer to the [Team Membership](./GOVERNANCE.md#team-membership) section of the Governance document for information on how to join this working group.
+
 ## Web-Server Frameworks Team Members
 
 <!-- ncu-team-sync.team(nodejs/web-server-frameworks) -->
