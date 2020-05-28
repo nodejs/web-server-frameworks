@@ -64,6 +64,7 @@ Please refer to the [Team Membership](./GOVERNANCE.md#team-membership) section o
 - [@MarcinHoppe](https://github.com/MarcinHoppe) - Marcin Hoppe
 - [@mcollina](https://github.com/mcollina) - Matteo Collina
 - [@mhdawson](https://github.com/mhdawson) - Michael Dawson
+- [@MRazvan](https://github.com/MRazvan) - Marinovici Razvan
 - [@niftylettuce](https://github.com/niftylettuce) - niftylettuce
 - [@RamirezAlex](https://github.com/RamirezAlex) - Alex Ramirez
 - [@raymondfeng](https://github.com/raymondfeng) - Raymond Feng
