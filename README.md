@@ -70,6 +70,7 @@ Please refer to the [Team Membership](./GOVERNANCE.md#team-membership) section o
 - [@retrohacker](https://github.com/retrohacker) - William Blankenship
 - [@ronag](https://github.com/ronag) - Robert Nagy
 - [@sheplu](https://github.com/sheplu) - Jean Burellier
+- [@styfle](https://github.com/styfle) - Steven
 - [@wesleytodd](https://github.com/wesleytodd) - Wes Todd
 
 <!-- ncu-team-sync end -->
