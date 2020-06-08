@@ -16,7 +16,7 @@ Team Membership is not time-limited. There is no fixed size of the Team.
 There is no specific set of requirements or qualifications for Team Membership beyond these rules.
 
 Prospective members should request membership though a PR labelled `membership-request` which adds them to the
-[Team membership list](https://github.com/nodejs/web-server-frameworks/README.md#Web-Server-Frameworks-Team-Members).
+[Team membership list](https://github.com/nodejs/web-server-frameworks/blob/master/README.md#web-server-frameworks-team-members).
 The PR will be merged in accordance with the [pull request consensus process](#Pull-Requests).
 
 Team membership will be revisited every 6 months. A PR will be open moving members
