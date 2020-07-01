@@ -72,6 +72,7 @@ Please refer to the [Team Membership](./GOVERNANCE.md#team-membership) section o
 - [@ronag](https://github.com/ronag) - Robert Nagy
 - [@sheplu](https://github.com/sheplu) - Jean Burellier
 - [@styfle](https://github.com/styfle) - Steven
+- [@sushmeet](https://github.com/sushmeet) - Sushmeet Sunger
 - [@wesleytodd](https://github.com/wesleytodd) - Wes Todd
 
 <!-- ncu-team-sync end -->
