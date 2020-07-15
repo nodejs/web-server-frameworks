@@ -71,6 +71,7 @@ Please refer to the [Team Membership](./GOVERNANCE.md#team-membership) section o
 - [@RamirezAlex](https://github.com/RamirezAlex) - Alex Ramirez
 - [@raymondfeng](https://github.com/raymondfeng) - Raymond Feng
 - [@retrohacker](https://github.com/retrohacker) - William Blankenship
+- [@rishabh96b](https://github.com/rishabh96b) - Rishabh Bohra
 - [@ronag](https://github.com/ronag) - Robert Nagy
 - [@sheplu](https://github.com/sheplu) - Jean Burellier
 - [@styfle](https://github.com/styfle) - Steven
