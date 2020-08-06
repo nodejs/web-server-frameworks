@@ -9,6 +9,6 @@ jobs:
     - uses: wesleytodd/meeting-maker@v0.0
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
-        schedules: '2020-04-02T17:00:00.0Z/P7D'
+        schedules: '2020-04-02T17:00:00.0Z/P14D'
         issueTitle: 'Node.js Foundation Web Server Team Meeting <%= date.toFormat("yyyy-MM-dd") %>'
         agendaLabel: 'web-server-frameworks-agenda'
