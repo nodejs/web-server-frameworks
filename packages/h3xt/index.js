@@ -19,7 +19,7 @@ class Application extends Function {
     // Create underlying server instance
     this.server = http.createServer({
       allowHTTP1: typeof this.opts.allowHTTP1 === 'boolean' ? this.opts.allowHTTP1 : true,
-      allowHTTP2: typeof this.opts.allowHTTP1 === 'boolean' ? this.opts.allowHTTP2 : true,
+      allowHTTP2: typeof this.opts.allowHTTP2 === 'boolean' ? this.opts.allowHTTP2 : true,
       allowHTTP3: typeof this.opts.allowHTTP1 === 'boolean' ? this.opts.allowHTTP3 : true
       // @TODO
       // key: this.opts.key || fs.readFileSync('localhost-privkey.pem'),
