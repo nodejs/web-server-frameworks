@@ -1,0 +1,23 @@
+{
+  "name": "@nodejs/web-server-frameworks",
+  "version": "0.0.0",
+  "description": "playground for the http-next effort",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "semistandard"
+  },
+  "workspaces": [
+    "packages/*",
+    "examples/*"
+  ],
+  "author": "Web Server Frameworks Team",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nodejs/web-server-frameworks.git"
+  },
+  "devDependencies": {
+    "semistandard": "^14.2.3"
+  }
+}
