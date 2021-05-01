@@ -1,0 +1,12 @@
+{
+  "name": "h3xt",
+  "version": "1.0.0",
+  "description": "A minimilist http framework built on top of the http-next api.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

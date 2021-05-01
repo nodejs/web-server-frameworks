@@ -1,0 +1,12 @@
+{
+  "name": "http-core",
+  "version": "1.0.0",
+  "description": "The low level http api which handles interop over http(s)/1/2/3 among other low level concerns.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
