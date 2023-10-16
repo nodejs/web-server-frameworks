@@ -60,6 +60,7 @@ Please refer to the [Team Membership](./GOVERNANCE.md#team-membership) section o
 - [@jasnell](https://github.com/jasnell) - James M Snell
 - [@JozefFlakus](https://github.com/JozefFlakus) - Józef Flakus
 - [@kamilmysliwiec](https://github.com/kamilmysliwiec) - Kamil Mysliwiec
+- [@DominusKelvin](https://github.com/DominusKelvin) - Kelvin Omereshone
 - [@LoicPoullain](https://github.com/LoicPoullain) - Loïc Poullain
 - [@MarcinHoppe](https://github.com/MarcinHoppe) - Marcin Hoppe
 - [@mcollina](https://github.com/mcollina) - Matteo Collina
