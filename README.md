@@ -78,5 +78,6 @@ Please refer to the [Team Membership](./GOVERNANCE.md#team-membership) section o
 - [@sushmeet](https://github.com/sushmeet) - Sushmeet Sunger
 - [@wesleytodd](https://github.com/wesleytodd) - Wes Todd
 - [@thescientist13](https://github.com/thescientist13) - Owen Buckley
+- [@mertcanaltin](https://github.com/mertcanaltin) - Mert Can Altin
 
 <!-- ncu-team-sync end -->
