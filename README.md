@@ -64,6 +64,7 @@ Please refer to the [Team Membership](./GOVERNANCE.md#team-membership) section o
 - [@DominusKelvin](https://github.com/DominusKelvin) - Kelvin Omereshone
 - [@LoicPoullain](https://github.com/LoicPoullain) - Loïc Poullain
 - [@MarcinHoppe](https://github.com/MarcinHoppe) - Marcin Hoppe
+- [@marco-ippolito](https://github.com/marco-ippolito) - Marco Ippolito
 - [@mcollina](https://github.com/mcollina) - Matteo Collina
 - [@mhdawson](https://github.com/mhdawson) - Michael Dawson
 - [@MRazvan](https://github.com/MRazvan) - Marinovici Razvan
