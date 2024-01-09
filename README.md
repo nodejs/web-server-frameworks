@@ -74,6 +74,7 @@ Please refer to the [Team Membership](./GOVERNANCE.md#team-membership) section o
 - [@rishabh96b](https://github.com/rishabh96b) - Rishabh Bohra
 - [@ronag](https://github.com/ronag) - Robert Nagy
 - [@sheplu](https://github.com/sheplu) - Jean Burellier
+- [@ShogunPanda](https://github.com/ShogunPanda) - Paolo Insogna
 - [@styfle](https://github.com/styfle) - Steven
 - [@sushmeet](https://github.com/sushmeet) - Sushmeet Sunger
 - [@wesleytodd](https://github.com/wesleytodd) - Wes Todd
