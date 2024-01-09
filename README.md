@@ -72,9 +72,10 @@ Please refer to the [Team Membership](./GOVERNANCE.md#team-membership) section o
 - [@retrohacker](https://github.com/retrohacker) - William Blankenship
 - [@ronag](https://github.com/ronag) - Robert Nagy
 - [@sheplu](https://github.com/sheplu) - Jean Burellier
+- [@ShogunPanda](https://github.com/ShogunPanda) - Paolo Insogna
 - [@styfle](https://github.com/styfle) - Steven
 - [@sushmeet](https://github.com/sushmeet) - Sushmeet Sunger
 - [@wesleytodd](https://github.com/wesleytodd) - Wes Todd
 - [@thescientist13](https://github.com/thescientist13) - Owen Buckley
-
+  
 <!-- ncu-team-sync end -->
