@@ -81,5 +81,6 @@ Please refer to the [Team Membership](./GOVERNANCE.md#team-membership) section o
 - [@wesleytodd](https://github.com/wesleytodd) - Wes Todd
 - [@thescientist13](https://github.com/thescientist13) - Owen Buckley
 - [@mertcanaltin](https://github.com/mertcanaltin) - Mert Can Altin
+- [@metcoder95](https://github.com/metcoder95) - Carlos Fuentes
 
 <!-- ncu-team-sync end -->
