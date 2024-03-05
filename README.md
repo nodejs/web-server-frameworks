@@ -50,5 +50,6 @@ Please refer to the [Team Membership](./GOVERNANCE.md#team-membership) section o
 - [@ShogunPanda](https://github.com/ShogunPanda) - Paolo Insogna
 - [@wesleytodd](https://github.com/wesleytodd) - Wes Todd
 - [@mertcanaltin](https://github.com/mertcanaltin) - Mert Can Altin
+- [@metcoder95](https://github.com/metcoder95) - Carlos Fuentes
 
 <!-- ncu-team-sync end -->
