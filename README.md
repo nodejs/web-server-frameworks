@@ -41,6 +41,7 @@ Please refer to the [Team Membership](./GOVERNANCE.md#team-membership) section o
 
 - [@Ethan-Arrowood](https://github.com/Ethan-Arrowood) - Ethan Arrowood
 - [@jasnell](https://github.com/jasnell) - James M Snell
+- [@fed135](https://github.com/fed135) - Frederic Charette
 - [@marco-ippolito](https://github.com/marco-ippolito) - Marco Ippolito
 - [@mcollina](https://github.com/mcollina) - Matteo Collina
 - [@mhdawson](https://github.com/mhdawson) - Michael Dawson
