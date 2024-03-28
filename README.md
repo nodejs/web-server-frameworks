@@ -39,47 +39,16 @@ Please refer to the [Team Membership](./GOVERNANCE.md#team-membership) section o
 
 <!-- ncu-team-sync.team(nodejs/web-server-frameworks) -->
 
-- [@AlexZeitler](https://github.com/AlexZeitler) - Alexander Zeitler
-- [@Alyssa-Cooper](https://github.com/Alyssa-Cooper) - Alyssa Cooper
-- [@antsmartian](https://github.com/antsmartian) - antsmartian
-- [@arei](https://github.com/arei) - Glen R. Goodwin
-- [@ayenisholah](https://github.com/ayenisholah) - Shola Ayeni
-- [@bajtos](https://github.com/bajtos) - Miroslav Bajtoš
-- [@blakeembrey](https://github.com/blakeembrey) - Blake Embrey
-- [@chrisrus](https://github.com/chrisrus) - Chris Russell
-- [@delvedor](https://github.com/delvedor) - Tomas Della Vedova
-- [@DonutEspresso](https://github.com/DonutEspresso) - Alex Liu
-- [@dougwilson](https://github.com/dougwilson) - Douglas Wilson
-- [@drawm](https://github.com/drawm) - Damon Perron-Laurin
 - [@Ethan-Arrowood](https://github.com/Ethan-Arrowood) - Ethan Arrowood
-- [@fed135](https://github.com/fed135) - Frederic Charette
-- [@franck-romano](https://github.com/franck-romano) - Franck Romano
-- [@ghermeto](https://github.com/ghermeto) - Guilherme Hermeto
-- [@gireeshpunathil](https://github.com/gireeshpunathil) - Gireesh Punathil
-- [@hekike](https://github.com/hekike) - Peter Marton
-- [@hueniverse](https://github.com/hueniverse) - Eran Hammer
 - [@jasnell](https://github.com/jasnell) - James M Snell
-- [@JozefFlakus](https://github.com/JozefFlakus) - Józef Flakus
-- [@kamilmysliwiec](https://github.com/kamilmysliwiec) - Kamil Mysliwiec
-- [@DominusKelvin](https://github.com/DominusKelvin) - Kelvin Omereshone
-- [@LoicPoullain](https://github.com/LoicPoullain) - Loïc Poullain
-- [@MarcinHoppe](https://github.com/MarcinHoppe) - Marcin Hoppe
+- [@fed135](https://github.com/fed135) - Frederic Charette
 - [@marco-ippolito](https://github.com/marco-ippolito) - Marco Ippolito
 - [@mcollina](https://github.com/mcollina) - Matteo Collina
 - [@mhdawson](https://github.com/mhdawson) - Michael Dawson
-- [@MRazvan](https://github.com/MRazvan) - Marinovici Razvan
-- [@niftylettuce](https://github.com/niftylettuce) - niftylettuce
-- [@RamirezAlex](https://github.com/RamirezAlex) - Alex Ramirez
-- [@raymondfeng](https://github.com/raymondfeng) - Raymond Feng
-- [@retrohacker](https://github.com/retrohacker) - William Blankenship
-- [@rishabh96b](https://github.com/rishabh96b) - Rishabh Bohra
 - [@ronag](https://github.com/ronag) - Robert Nagy
 - [@sheplu](https://github.com/sheplu) - Jean Burellier
 - [@ShogunPanda](https://github.com/ShogunPanda) - Paolo Insogna
-- [@styfle](https://github.com/styfle) - Steven
-- [@sushmeet](https://github.com/sushmeet) - Sushmeet Sunger
 - [@wesleytodd](https://github.com/wesleytodd) - Wes Todd
-- [@thescientist13](https://github.com/thescientist13) - Owen Buckley
 - [@mertcanaltin](https://github.com/mertcanaltin) - Mert Can Altin
 
 <!-- ncu-team-sync end -->
