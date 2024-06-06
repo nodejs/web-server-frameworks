@@ -1,0 +1,12 @@
+{
+  "name": "http-next",
+  "version": "1.0.0",
+  "description": "The high level api over http for end users and framework authors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
